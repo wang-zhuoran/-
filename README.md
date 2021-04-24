@@ -1,1 +1,2 @@
-# -
+# 基于Python的数据可视化实验
+使用python图形库matplotlib实现
